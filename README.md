@@ -17,3 +17,5 @@ eu criei um numero aleatorio de 0 a 100 caso o numero seja igual ou menor o atri
 
 os herois do dota2 são meramente ilustrativos
 </h6>
+
+<img src="./assets/toReadme.png">
