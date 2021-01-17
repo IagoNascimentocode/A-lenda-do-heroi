@@ -1,8 +1,8 @@
 <h1>A lenda do Heroi</h1>
 
-<h6>Status: Desenvolvimento</h6>
+<h4>Status: Desenvolvimento</h4>
 
-<h6>Tecnologias envolvidas:Java Script ,html ,css ,bootstrap</h6>
+<h6>Tecnologias envolvidas: Java Script ,html ,css ,bootstrap</h6>
 
 <h4>Sobre:</h4>
 <h6>A ideia é criar um jogo de herois com atribustos que tenham skils e itens que altere seus atributos.
